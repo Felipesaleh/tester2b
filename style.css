@@ -1,1 +1,33 @@
+body{
 
+background-color: blueviolet;
+color: orange;
+
+
+}
+.capa{
+color: orange;
+font-size: 20px;
+
+}
+
+h1[
+    color: rgba(220, 20, 60, 0);
+]
+
+#heroi{
+ display:flex;
+ padding-left: 200px;
+
+
+}
+
+.videos img{
+     opacity: 0.5;
+    height: 200px;
+}
+
+.videos img:hover{
+
+    
+}
